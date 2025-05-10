@@ -1,10 +1,11 @@
 Para este proyecto se realizo una pagina estatica usando CSS y HTML
 
 Integrantes:
-1. Isai Magdiel Quispe Perez
-2. Kevin Quinteros Porco 
-3. Adalia Flores Escobar
-4. Edeny Sharon Fernandez Quispe
+   Isai Magdiel Quispe Perez
+   Kevin Quinteros Porco 
+   Adalia Flores Escobar
+   Edeny Sharon Fernandez Quispe
+
    
 1. Nombre del equipo: ByteHub
 2. GitFlow utilizado: Ship/Show/Ask 
